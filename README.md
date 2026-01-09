@@ -3,7 +3,7 @@
 Sou um **desenvolvedor Full Stack em formação**, focado em criar **interfaces modernas**, **APIs funcionais** e **projetos completos do front ao back**.  
 Gosto de aprender na prática, construindo aplicações reais com deploy e boas práticas.
 
-🔗 **Portfólio:** https://github.com/BreninDevv/my-portfolio
+🔗 **Portfólio:** https://my-portfolio-breno.vercel.app
 
 ---
 
