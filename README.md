@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+o+Breno+Henrique+Ribeiro" />
-
-</div>
+# 👋 Olá, eu sou o Breno Henrique Ribeiro
 
 Sou um **desenvolvedor Full Stack em formação**, focado em criar **interfaces modernas**, **APIs funcionais** e **projetos completos do front ao back**.  
 Gosto de aprender na prática, construindo aplicações reais com deploy e boas práticas.
