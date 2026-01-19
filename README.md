@@ -71,8 +71,8 @@ Aplicação full stack para **controle financeiro pessoal**, com autenticação 
 
 ## 📫 Contato
 - GitHub: https://github.com/BreninDevv
-- Portfólio: https://github.com/BreninDevv/my-portfolio
-- https://www.linkedin.com/in/brenodev-henrique/
+- Linkedin: https://www.linkedin.com/in/brenodev-henrique/
+- Email: breno.devv.contato@gmail.com
 
 ---
 
